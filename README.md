@@ -76,20 +76,36 @@
 [![ThoughtSpot Cloud Architect](https://img.shields.io/badge/ThoughtSpot%20Cloud%20Architect-000000?style=for-the-badge&logo=thoughtspot)](LINK_TO_CREDLY_BADGE)
 
 ---
+## Tech Stack Diagram 🛠️
 
-```mermaid
-graph LR
-A[Data Sources] --> B[ETL/ELT - DBT, Airbyte, Hevo]
-B --> C[Data Warehouse - Snowflake, PostgreSQL]
-C --> D[Visualization - ThoughtSpot, PowerBI]
-```
+<p align="center">
+  <!-- Extraction -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
+  <img src="https://avatars.githubusercontent.com/u/58756892?s=200&v=4" alt="Airbyte" width="50" height="50"/>
+  <b>➡</b>
 
+  <!-- Transformation -->
+  <img src="https://seeklogo.com/images/D/dbt-logo-500AB0BAA7-seeklogo.com.png" alt="DBT" width="50" height="50"/>
+  <b>➡</b>
 
----
+  <!-- Orchestration -->
+  <img src="https://raw.githubusercontent.com/dagster-io/dagster/master/js_modules/dagit/static/dagster.png" alt="Dagster" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/apache/airflow/main/docs/apache-airflow/img/logos/airflow.png" alt="Airflow" width="50" height="50"/>
+  <b>➡</b>
 
-Personally, I’d recommend replacing GitHub stats with **Featured Projects + Certifications**, because they immediately show your **impact** and **expertise** rather than just commit history.  
+  <!-- Version Control -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="50" height="50"/>
+  <b>➡</b>
 
-Do you want me to go ahead and **integrate both Featured Projects and Certifications** into your README so it looks complete and data-engineering–focused?
+  <!-- Databases -->
+  <img src="https://upload.wikimedia.org/wikipedia/en/5/5b/Snowflake_Logo.png" alt="Snowflake" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="50"/>
+  <img src="https://learn.microsoft.com/en-us/sql/tools/media/2016-sql-server-management-studio/ssmsicon.png" alt="Azure SQL" width="50" height="50"/>
+  <b>➡</b>
+
+  <!-- Reporting -->
+  <img src="https://seeklogo.com/images/T/thoughtspot-logo-1BC90D6212-seeklogo.com.png" alt="ThoughtSpot" width="50" height="50"/>
+</p>
 
 ---
 ## Connect with Me 🌐
