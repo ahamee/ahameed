@@ -10,8 +10,6 @@
 
 ## Skills 💻
 
-## Skills 💻
-
 ### **Programming & Scripting**
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![SQL](https://img.shields.io/badge/sql-%230074D0.svg?style=for-the-badge&logo=database&logoColor=white)
