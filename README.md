@@ -78,33 +78,57 @@
 ---
 ## Tech Stack Diagram 🛠️
 
+## Tech Stack Diagram 🛠️
+
 <p align="center">
+
   <!-- Extraction -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
-  <img src="https://avatars.githubusercontent.com/u/58756892?s=200&v=4" alt="Airbyte" width="50" height="50"/>
-  <b>➡</b>
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
+  </a>
+  <a href="https://airbyte.com/" target="_blank">
+    <img src="https://avatars.githubusercontent.com/u/58756892?s=200&v=4" alt="Airbyte" width="50" height="50"/>
+  </a>
+  ➡
 
   <!-- Transformation -->
-  <img src="https://seeklogo.com/images/D/dbt-logo-500AB0BAA7-seeklogo.com.png" alt="DBT" width="50" height="50"/>
-  <b>➡</b>
+  <a href="https://www.getdbt.com/" target="_blank">
+    <img src="https://seeklogo.com/images/D/dbt-logo-500AB0BAA7-seeklogo.com.png" alt="DBT" width="50" height="50"/>
+  </a>
+  ➡
 
   <!-- Orchestration -->
-  <img src="https://raw.githubusercontent.com/dagster-io/dagster/master/js_modules/dagit/static/dagster.png" alt="Dagster" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/apache/airflow/main/docs/apache-airflow/img/logos/airflow.png" alt="Airflow" width="50" height="50"/>
-  <b>➡</b>
+  <a href="https://dagster.io/" target="_blank">
+    <img src="https://raw.githubusercontent.com/dagster-io/dagster/master/js_modules/dagit/static/dagster.png" alt="Dagster" width="50" height="50"/>
+  </a>
+  <a href="https://airflow.apache.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/apache/airflow/main/docs/apache-airflow/img/logos/airflow.png" alt="Airflow" width="50" height="50"/>
+  </a>
+  ➡
 
   <!-- Version Control -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="50" height="50"/>
-  <b>➡</b>
+  <a href="https://github.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="50" height="50"/>
+  </a>
+  ➡
 
   <!-- Databases -->
-  <img src="https://upload.wikimedia.org/wikipedia/en/5/5b/Snowflake_Logo.png" alt="Snowflake" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="50"/>
-  <img src="https://learn.microsoft.com/en-us/sql/tools/media/2016-sql-server-management-studio/ssmsicon.png" alt="Azure SQL" width="50" height="50"/>
-  <b>➡</b>
+  <a href="https://www.snowflake.com/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/en/5/5b/Snowflake_Logo.png" alt="Snowflake" width="50" height="50"/>
+  </a>
+  <a href="https://www.postgresql.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="50"/>
+  </a>
+  <a href="https://azure.microsoft.com/en-us/products/azure-sql-database/" target="_blank">
+    <img src="https://learn.microsoft.com/en-us/sql/tools/media/2016-sql-server-management-studio/ssmsicon.png" alt="Azure SQL" width="50" height="50"/>
+  </a>
+  ➡
 
   <!-- Reporting -->
-  <img src="https://seeklogo.com/images/T/thoughtspot-logo-1BC90D6212-seeklogo.com.png" alt="ThoughtSpot" width="50" height="50"/>
+  <a href="https://www.thoughtspot.com/" target="_blank">
+    <img src="https://seeklogo.com/images/T/thoughtspot-logo-1BC90D6212-seeklogo.com.png" alt="ThoughtSpot" width="50" height="50"/>
+  </a>
+
 </p>
 
 ---
