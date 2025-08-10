@@ -69,16 +69,22 @@
 
 ---
 
-## GitHub Stats 📊
+## Certifications 🎓
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&theme=transparent&layout=compact)
-<br/>
-![](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&theme=transparent)
-<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=YOUR_GITHUB_USERNAME&theme=transparent)
+[![ThoughtSpot Professional](https://img.shields.io/badge/ThoughtSpot%20Professional-000000?style=for-the-badge&logo=thoughtspot)](LINK_TO_CREDLY_BADGE)
+[![ThoughtSpot Data Expert](https://img.shields.io/badge/ThoughtSpot%20Data%20Expert-000000?style=for-the-badge&logo=thoughtspot)](LINK_TO_CREDLY_BADGE)
+[![ThoughtSpot Cloud Architect](https://img.shields.io/badge/ThoughtSpot%20Cloud%20Architect-000000?style=for-the-badge&logo=thoughtspot)](LINK_TO_CREDLY_BADGE)
 
 ---
 
+```mermaid
+graph LR
+A[Data Sources] --> B[ETL/ELT - DBT, Airbyte, Hevo]
+B --> C[Data Warehouse - Snowflake, PostgreSQL]
+C --> D[Visualization - ThoughtSpot, PowerBI]
+```
+
+---
 ## Connect with Me 🌐
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahameedm/)
