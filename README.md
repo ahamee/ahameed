@@ -77,7 +77,7 @@
 
 ---
 ## Tech Stack Diagram 🛠️
-<img width="2124" height="2524" alt="image" src="https://github.com/user-attachments/assets/d520d810-cd61-4906-adec-464b05711921" />
+<img width="500" height="1000" alt="image" src="https://github.com/user-attachments/assets/d520d810-cd61-4906-adec-464b05711921" />
 
 ---
 ## Connect with Me 🌐
