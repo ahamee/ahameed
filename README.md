@@ -84,6 +84,13 @@ B --> C[Data Warehouse - Snowflake, PostgreSQL]
 C --> D[Visualization - ThoughtSpot, PowerBI]
 ```
 
+
+---
+
+Personally, I’d recommend replacing GitHub stats with **Featured Projects + Certifications**, because they immediately show your **impact** and **expertise** rather than just commit history.  
+
+Do you want me to go ahead and **integrate both Featured Projects and Certifications** into your README so it looks complete and data-engineering–focused?
+
 ---
 ## Connect with Me 🌐
 
